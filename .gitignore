@@ -1,0 +1,12 @@
+# Source plaintext file — NUNCA commitar
+dashboard.html
+
+# Build artifacts
+encrypted/
+node_modules/
+
+# Local preview config
+.claude/
+
+# OS junk
+.DS_Store
